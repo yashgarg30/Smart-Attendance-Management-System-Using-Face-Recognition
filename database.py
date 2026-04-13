@@ -4,6 +4,6 @@ def connect_db():
     return mysql.connector.connect(
         host="localhost",
         user="root",
-        password="123456789",
+        password="your_password",
         database="smart_attendance"
     )
