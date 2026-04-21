@@ -180,6 +180,11 @@ https://drive.google.com/file/d/1FR8hu-qH3cqpljbiqzHG7uMY1RJ3Bk-f/view?usp=shari
 
 ---
 
+## PROJECT FILES DRIVE LINK
+https://drive.google.com/drive/folders/1-DoVtcD1MkjyrnQp-lA9un7H6cEhl-d8?usp=drive_link
+
+This Drive link contains the PPTs, Project Proposal, and Report
+
 ## 🤝 Contributing
 
 Contributions are welcome! Feel free to fork this repository and submit pull requests.
